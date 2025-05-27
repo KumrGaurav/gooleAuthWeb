@@ -1,25 +1,3 @@
-// import { Button } from '@mui/material';
-// import { signInWithPopup } from 'firebase/auth';
-// import { auth, googleProvider } from '../lib/firebase';
-
-// const GoogleSignIn = () => {
-//   const handleSignIn = async () => {
-//     try {
-//       await signInWithPopup(auth, googleProvider);
-//     } catch (error) {
-//       console.error(error);
-//     }
-//   };
-
-//   return (
-//     <Button variant="contained" onClick={handleSignIn}>
-//       Sign in with Google
-//     </Button>
-//   );
-// };
-
-// export default GoogleSignIn;
-
 'use client';
 
 import { Button } from '@mui/material';
